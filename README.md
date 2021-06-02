@@ -1,6 +1,4 @@
-<div style="font-weight: bold; font-size: 30px">
-    <center>Hello Visitor 👋</center>
-</div>
+<h1 align="center">Hello Visitor 👋</h1> 
 
 ## About me
 
@@ -36,6 +34,12 @@ Apart from that, I am also an avid reader and watcher who loves to talk about li
 ## My Writings
 
 - [MPI With Python](https://james471.medium.com/mpi-with-python-1e02bea43b7c)
+
+## Github Stats
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=James471&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=James471&layout=compact&theme=dark)
 
 ## Reach Me
 
