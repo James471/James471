@@ -3,13 +3,12 @@
 </div>
 
 ## About me
-<hr />
+
 Hi, I am James, a second year undergraduate and an aspiring physicist at IISER Mohali, India. I am interested in Mathematics, Coding and Physics and plan to work in a field that brings all these disciplines together(almost everything in physics does 😀). 
 
 Apart from that, I am also an avid reader and watcher who loves to talk about literature and movies.
 
 ## Things I know about
-<hr />
 
 - Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" width="20" height="20"/> , C++, Java <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" alt="Java" width="20" height="20"/>
 - Javascript, Firebase, Jekyll
@@ -20,7 +19,6 @@ Apart from that, I am also an avid reader and watcher who loves to talk about li
 - Currently learning Julia <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/julia-icon.png" width="20" height="20">
 
 ## My Works
-<hr />
 
 - [Population Growth](https://github.com/James471/Population-Growth-Model) A tiny exploration of the recur model for population growth.
 
@@ -35,8 +33,11 @@ Apart from that, I am also an avid reader and watcher who loves to talk about li
 - [Club Website Template](https://github.com/James471/club-website-template) A customizable website template for clubs at IISERM built with Jekyll. [Here's a website](https://James471.github.io/club-website-template) built using this template.
 - [Turing Hunt](https://github.com/James471/turing-hunt) A virtual treasure hunt under the aegis of Turing Club at IISERM.
 
+## My Writings
+
+- [MPI With Python](https://james471.medium.com/mpi-with-python-1e02bea43b7c)
+
 ## Reach Me
-<hr />
 
 - [Email](mailto:ms19117@iisermohali.ac.in)
 
