@@ -25,6 +25,7 @@ Apart from that, I am also an avid reader and watcher who loves to talk about li
 - [Maze Solver](https://github.com/James471/Arduino) Code for a maze solving car built with Arduino.
 - A short project on Monte Carlo Methods in Statistical Mechanics exploring the 1D Ising Model and the Generalized GWW Model.
 - A term paper on Markov Chains for Music Generation done as a part of MTH202 course at IISERM.
+- [Simulating the Yang Mills Matrix Model](https://github.com/James471/YangMillsModel) A simulation of the Yang Mills Matrix Model using the metropolis algorithm
 - [Implementing torsion calculator in Geogebra](https://github.com/James471/geogebra) An attempt to make a small contribution to [Geogebra](https://www.geogebra.org) as part of a term paper in MTH201 course at IISERM.
 - [Poll App](https://iiserm.github.io/poll-app) An unofficial online election system for IISERM built with a firebase back end.
 - [Minivet](http://manjarijain.net/Minivet.html) A birding app built under the aegis of BEL, IISERM.
