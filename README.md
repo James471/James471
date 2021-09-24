@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I am James, a second year undergraduate and an aspiring physicist at IISER Mohali, India. I am interested in Mathematics, Coding and Physics and plan to work in a field that brings all these disciplines together(almost everything in physics does 😀). 
+Hi, I am James, a third year physics major and an aspiring physicist at IISER Mohali, India. I am interested in Mathematics, Coding and Physics and plan to work in a field that brings all these disciplines together(almost everything in physics does 😀). 
 
 Apart from that, I am also an avid reader and watcher who loves to talk about literature and movies.
 
