@@ -8,13 +8,12 @@ Apart from that, I am also an avid reader and watcher who loves to talk about li
 
 ## Things I know about
 
-- Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" width="20" height="20"/> , C++, Java <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" alt="Java" width="20" height="20"/>
+- Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" width="20" height="20"/> , C++, Java <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" alt="Java" width="20" height="20"/>, Julia <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/julia-icon.png" width="20" height="20">
 - Javascript, Firebase, Jekyll
 - Latex, Markdown
 - Basic Android Development <img src="https://icons.iconarchive.com/icons/martz90/circle/128/android-icon.png" width="20" height="20">, Basic Arduino <img src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" width="20" height="20">
 - Machine Learning
 - MPI
-- Currently learning Julia <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/julia-icon.png" width="20" height="20">
 
 ## My Works
 
